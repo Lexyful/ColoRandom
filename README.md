@@ -9,6 +9,7 @@ If the user likes the selection of colors, they can press a "save palette" butto
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 Open up the terminal and paste the SSH code after typing git clone in the terminal. Next enter the repesitory with the cd command. Then type code . and the
 code will come up in the text editer. Then in the terminal type open index.html and the application will open in the browser.
+ https://lexyful.github.io/ColoRandom/
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
@@ -43,4 +44,6 @@ It took us a long time to build each function but we were resourceful using MDN 
 our rocks, mentors and classmates when we were stuck, and in the end we were all able to understand the code we wound up with.
 
 https://www.notion.so/ColorProject-Mod-1-b7445c26d60f4fa99647943858d07623
+
+ https://lexyful.github.io/ColoRandom/
 
